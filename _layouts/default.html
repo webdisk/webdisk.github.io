@@ -38,8 +38,12 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
+    {% if page.mermaid %}
+    <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
+    <script>{% include scripts/render-mermaid.js %}</script>
+    {% endif %}
     {% for script in page.scripts %}
-    <script type="module">{% include scripts/{{ script }} %}</script>
+    <script>{% include scripts/{{ script }} %}</script>
     {% endfor %}
   </body>
 </html>

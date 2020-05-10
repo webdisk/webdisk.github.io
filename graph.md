@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Graph
-scripts: render-mermaid.js
+mermaid: true
 ---
 ## Test
 
