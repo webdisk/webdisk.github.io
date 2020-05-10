@@ -1,4 +1,4 @@
-import { mermaid } from 'https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js';
+import * as mermaid from 'https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js';
 
 mermaid.initialize({ startOnLoad: false });
 
