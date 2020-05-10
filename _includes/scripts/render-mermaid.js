@@ -1,4 +1,4 @@
-const mermaid = await import('https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js');
+import { mermaid } from 'https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js';
 
 console.log(mermaid)
 mermaid.initialize({ startOnLoad: false });
