@@ -1,5 +1,5 @@
 import * as mermaid from 'https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js';
-import ho from './replace-google-play-links.js';
+import ho from '/assets/scripts/replace-google-play-links.js';
 
 console.log(ho);
 
