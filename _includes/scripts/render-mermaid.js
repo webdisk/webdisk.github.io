@@ -1,7 +1,7 @@
 mermaid.initialize({ startOnLoad: false });
 
 document.addEventListener('DOMContentLoaded', () => {
-  const codes = document.querySelectorAll('pre>code.language-mermaid');
+  const codes = document.querySelectorAll('pre > code.language-mermaid');
   for (const [i, code] of codes.entries()) {
     const id = `mermaid-${i}`;
     const graphDefinition = code.textContent;
