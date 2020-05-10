@@ -1,4 +1,7 @@
 import * as mermaid from 'https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js';
+import ho from './replace-google-play-links';
+
+console.log(ho);
 
 console.log(mermaid)
 mermaid.initialize({ startOnLoad: false });

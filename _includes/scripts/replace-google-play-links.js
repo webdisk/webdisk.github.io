@@ -9,3 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     link.href = link.href.replace(pattern, toStr);
   }
 });
+
+
+const hoge = "aiueo";
+export default hoge;
