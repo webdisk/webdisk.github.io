@@ -24,7 +24,7 @@
     <link rel="search" type="application/opensearchdescription+xml" href="/assets/searchplugins/2ch.xml" title="2chスレタイ検索">
     {% if page.mermaid %}
     <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
-    <script>mermaid.init({}, ".language-mermaid");</script>
+    <script src="/assets/scripts/render-mermaid.js"></script>
     {% endif %}
     {% for script in page.scripts %}
     <script>{% include_relative {{ script }} %}</script>
