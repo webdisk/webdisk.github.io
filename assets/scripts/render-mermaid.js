@@ -1,4 +1,4 @@
-mermaid.initialize({ startOnLoad:false });
+mermaid.initialize({ startOnLoad: false });
 
 document.addEventListener('DOMContentLoaded', () => {
   const codes = document.querySelectorAll('pre>code.language-mermaid');
