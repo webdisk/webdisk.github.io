@@ -39,7 +39,7 @@
       {{ content }}
     </main>
     {% for script in page.scripts %}
-    <script>{% include scripts/{{ script }} %}</script>
+    <script type="module">{% include scripts/{{ script }} %}</script>
     {% endfor %}
   </body>
 </html>
