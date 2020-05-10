@@ -1,0 +1,68 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.fontFamily": "Source Han Mono, Source Han Sans HW, monospace",
+  "editor.fontWeight": "normal",
+  "editor.fontSize": 14,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 4,
+  "files.eol": "\n",
+  "files.hotExit": "off",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "window.menuBarVisibility": "toggle",
+  "window.restoreWindows": "none",
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "Chester Atom",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#80808040",
+    "editor.selectionHighlightBackground": "#80808040",
+    "editorWhitespace.foreground": "#80808080",
+    "statusBar.background": "#222a34",
+    "statusBar.noFolderBackground": "#222a34",
+    "statusBar.debuggingBackground": "#222a34"
+  },
+  "[css]": {
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2
+  },
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2
+  },
+  "[xml]": {
+    "editor.tabSize": 2
+  },
+  "[yaml]": {
+    "editor.tabSize": 2
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.format.enable": true,
+  "python.linting.pylintCategorySeverity.refactor": "Warning",
+  "python.linting.pylintUseMinimalCheckers": false,
+  "markdown-pdf.headerTemplate": "<div />",
+  "markdown-pdf.footerTemplate": "<div style=\"font-size: 9px; margin: 0 auto;\"> <span class='pageNumber'></span> / <span class='totalPages'></span></div>",
+  "markdown-pdf.outputDirectory": "~/Desktop",
+  "markdown-pdf.scale": 1,
+}
