@@ -1,8 +1,9 @@
-mermaid.mermaidAPI.initialize({ startOnLoad:false });
+mermaid.initialize({ startOnLoad:false });
 
 document.addEventListener('DOMContentLoaded', () => {
   const codes = document.querySelectorAll('pre>code.language-mermaid');
-  for (const code of codes) {
+  for (const [i, code] of codes.entries()) {
+    const id = `mermaid-${i}`;
     const graphDefinition = code.textContent;
     const pre = code.parentElement;
     const insertSvg = svgCode => {
@@ -10,5 +11,5 @@ document.addEventListener('DOMContentLoaded', () => {
         div.innerHTML = svgCode;
         pre.parentElement.replaceChild(div, pre);
     }
-    mermaid.mermaidAPI.render(`id1`, graphDefinition, insertSvg);
+    mermaid.render(id, graphDefinition, insertSvg);
   }});
