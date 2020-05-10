@@ -12,4 +12,5 @@ document.addEventListener('DOMContentLoaded', () => {
         pre.parentElement.replaceChild(div, pre);
     }
     mermaid.render(id, graphDefinition, insertSvg);
-  }});
+  }
+});
