@@ -13,6 +13,8 @@ order: 4
     - [User-Agent Switcher](https://addons.mozilla.org/firefox/addon/user-agent-switcher-revived/)
     - [Offline QR Code Generator](https://addons.mozilla.org/ja/firefox/addon/offline-qr-code-generator/)
 
+## Search Plugins
+
 ## uBlock Filter
 - [Simple Filter](abp://subscribe/?location={{ page.dir | absolute_url }}ublock.txt&title=Simple Filter)
 
