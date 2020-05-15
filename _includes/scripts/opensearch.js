@@ -39,8 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const ul = listContainer.appendChild(document.createElement('ul'));
   for (const plugin of targetPlugins) {
     const li = ul.appendChild(document.createElement('li'));
-    const p = li.appendChild(document.createElement('p'));
-    const a = p.appendChild(document.createElement('a'));
+    const a = li.appendChild(document.createElement('a'));
     a.textContent = plugin.title;
     a.href = makeLink(plugin.id);
   }
