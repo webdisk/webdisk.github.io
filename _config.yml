@@ -1,2 +1,4 @@
 title: webdisk
 theme: jekyll-theme-cayman
+exclude:
+  - package.json

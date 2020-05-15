@@ -25,6 +25,7 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
+    <script>{% include scripts/opensearch.js %}</script>
     {% if page.mermaid %}
     <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
     <script>{% include scripts/render-mermaid.js %}</script>
