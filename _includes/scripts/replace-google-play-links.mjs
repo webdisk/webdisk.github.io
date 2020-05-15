@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+function replaceLinks() {
   if (!navigator.userAgent.includes('Android')) {
     return;
   }
@@ -8,4 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
   for (const link of links) {
     link.href = link.href.replace(pattern, toStr);
   }
-});
+}
+
+replaceLinks();

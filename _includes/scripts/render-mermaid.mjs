@@ -1,6 +1,5 @@
-mermaid.initialize({ startOnLoad: false });
-
-document.addEventListener('DOMContentLoaded', () => {
+function renderMermaid() {
+  mermaid.initialize({ startOnLoad: false });
   const codes = document.querySelectorAll('pre > code.language-mermaid');
   for (const [i, code] of codes.entries()) {
     const id = `mermaid-${i}`;
@@ -13,4 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     mermaid.render(id, graphDefinition, insertSvg);
   }
-});
+}
+
+renderMermaid();

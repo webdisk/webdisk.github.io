@@ -2,7 +2,7 @@
 layout: default
 title: Mobile Memo
 order: 2
-scripts: replace-google-play-links.js
+scripts: replace-google-play-links.mjs
 ---
 ## Applications
 
