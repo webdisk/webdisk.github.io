@@ -40,7 +40,10 @@ function addListTags() {
   if (!listContainer) {
     return;
   }
-  const ul = listContainer.appendChild(document.createElement('ul'));
+  const ul = listContainer.parentElement.insertBefore(
+    document.createElement('ul'),
+    listContainer.nextSibling,
+  );
   for (const plugin of searchPlugins) {
     const li = ul.appendChild(document.createElement('li'));
     const a = li.appendChild(document.createElement('a'));
