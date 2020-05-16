@@ -46,14 +46,10 @@ function addListTags() {
   );
   for (const plugin of searchPlugins) {
     const li = ul.appendChild(document.createElement('li'));
-    li.append(`${plugin.title} `);
-    const xmlLink = li.appendChild(document.createElement('a'));
-    xmlLink.textContent = 'xml';
-    xmlLink.href = makeLink(plugin.id);
-    li.append(' ');
-    const jsLink = li.appendChild(document.createElement('a'));
-    jsLink.textContent = 'link';
-    jsLink.href = `/?searchplugin=${plugin.id}`;
+    const a = li.appendChild(document.createElement('a'));
+    a.textContent = plugin.title;
+    a.href = `/?searchplugin=${plugin.id}`;
+    a.href = makeLink(plugin.id);
   }
 }
 
