@@ -46,8 +46,9 @@ function addListTags() {
   );
   for (const plugin of searchPlugins) {
     const li = ul.appendChild(document.createElement('li'));
+    li.append(plugin.title);
     const a = li.appendChild(document.createElement('a'));
-    a.textContent = plugin.title;
+    a.textContent = 'xml';
     a.href = makeLink(plugin.id);
   }
 }
