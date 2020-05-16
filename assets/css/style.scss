@@ -37,9 +37,9 @@
     width: 24px;
     height: 24px;
   }
-  > svg {
-    width: 100%;
-    height: 100%;
-    fill: $header-heading-color;
-  }
+}
+
+.aaa {
+  background-color: red;
+  mask: url(/assets/images/home.svg) no-repeat center;
 }
