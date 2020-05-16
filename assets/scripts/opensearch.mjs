@@ -25,7 +25,7 @@ function addLinkTags() {
     const link = document.createElement('link');
     link.rel = 'search';
     link.type = 'application/opensearchdescription+xml';
-    link.title = plugin.title;
+    link.title = plugin.title + ' ';
     link.href = `/assets/searchplugins/${plugin.id}.xml`;
     document.head.appendChild(link);
   }
