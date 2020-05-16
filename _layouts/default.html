@@ -21,13 +21,13 @@
   <body>
     <header class="page-header" role="banner">
       <div class="page-header-left">
-        <a class="page-header-icon" title="top" href="/"><object src="/assets/images/home.svg"></object></a>
+        <a class="page-header-icon" title="top" href="/">{% include images/home.svg %}</a>
       </div>
       <div class="page-header-center">
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       </div>
       <div class="page-header-right">
-        <a class="page-header-icon" title="github" href="{{ site.github.repository_url }}"><object src="/assets/images/github.svg"></object></a>
+        <a class="page-header-icon" title="github" href="{{ site.github.repository_url }}">{% include images/github.svg %}</a>
       </div>
     </header>
     <main id="content" class="main-content" role="main">
