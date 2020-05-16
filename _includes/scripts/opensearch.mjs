@@ -14,10 +14,6 @@ const searchPlugins = [
   { id: '2ch', title: '2chスレタイ検索' },
 ];
 
-function makeLink(id) {
-  return `/assets/searchplugins/${id}.xml`;
-}
-
 function addLinkTags() {
   const url = new URL(window.location.href);
   const target = url.searchParams.get('searchplugin');
@@ -30,7 +26,7 @@ function addLinkTags() {
     link.rel = 'search';
     link.type = 'application/opensearchdescription+xml';
     link.title = plugin.title;
-    link.href = makeLink(plugin.id);
+    link.href = `/assets/searchplugins/${plugin.id}.xml`;
     document.head.appendChild(link);
   }
 }
@@ -49,7 +45,6 @@ function addListTags() {
     const a = li.appendChild(document.createElement('a'));
     a.textContent = plugin.title;
     a.href = `/?searchplugin=${plugin.id}`;
-    a.href = makeLink(plugin.id);
   }
 }
 
