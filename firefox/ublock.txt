@@ -66,6 +66,7 @@
 ||exosrv.com^
 ||fam-8.net^
 ||fam-ad.com^
+||fivecdm.com^
 ||flapi.nicovideo.jp/api/getmarquee_new^
 ||fout.jp^
 ||free2.jp^
@@ -79,6 +80,7 @@
 ||gsspat.jp^
 ||histats.com^
 ||i-mobile.co.jp^
+||i2ad.jp^
 ||image-rentracks.com^
 ||img.4clvr.jp^
 ||imp.aiasahi.jp^
