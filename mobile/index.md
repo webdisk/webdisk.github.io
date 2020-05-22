@@ -6,7 +6,7 @@ scripts: replace-google-play-links.mjs
 ---
 ## Applications
 
-### Android
+### Android Applications
 
 - System
   - [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
@@ -79,7 +79,7 @@ scripts: replace-google-play-links.mjs
 - Point
   - [Google アンケート モニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks)
 
-### iOS
+### iOS Applications
 
 - Communication
   - [Gmail](https://apps.apple.com/jp/app/id422689480)

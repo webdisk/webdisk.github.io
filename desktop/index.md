@@ -5,7 +5,7 @@ order: 1
 ---
 ## Applications
 
-### Cross Platform
+### Cross Platform Applications
 
 - System
   - [VirtualBox](https://www.virtualbox.org/)
@@ -33,7 +33,7 @@ order: 1
   - [Python](https://www.python.org/)
   - [Go](https://golang.org/)
 
-### Windows
+### Windows Applications
 
 - System
   - [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
@@ -48,7 +48,7 @@ order: 1
   - [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
   - [@icon変換](http://www.towofu.net/soft/aicon.php)
 
-### MacOS
+### MacOS Applications
 
 - System
   - [BetterTouchTool](https://folivora.ai/)
@@ -62,7 +62,7 @@ order: 1
 
 ## Config
 
-### Cross Platform
+### Cross Platform Config
 
 - [.ssh/config](ssh/config)
 - [.gitconfig](gitconfig)
