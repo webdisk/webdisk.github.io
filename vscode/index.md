@@ -18,6 +18,7 @@ order: 3
   - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 - Markdown
   - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
   - [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 - Programming
