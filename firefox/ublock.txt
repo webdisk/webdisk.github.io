@@ -148,8 +148,7 @@
 fc2.com###fc2_bottom_bnr
 itest.5ch.net##.ad
 itest.5ch.net##.res_ad
-itest.5ch.net##.sproutad_frame
-itest.5ch.net##.sproutad_frame-description
+itest.5ch.net##.js-render-after
 search.yahoo.co.jp##.AD__SSList
 seesaa.net###seesaa-bnr
 twitter.com##.has-profile-promoted-tweet
