@@ -146,8 +146,6 @@
 ||youtube.com^*=adunit&
 ||zimg.jp^
 fc2.com###fc2_bottom_bnr
-itest.5ch.net##.ad
-itest.5ch.net##.res_ad
 search.yahoo.co.jp##.AD__SSList
 seesaa.net###seesaa-bnr
 twitter.com##.has-profile-promoted-tweet
