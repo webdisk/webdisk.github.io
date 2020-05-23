@@ -147,8 +147,11 @@
 ||zimg.jp^
 fc2.com###fc2_bottom_bnr
 itest.5ch.net##.ad
-itest.5ch.net##.res_ad
+itest.5ch.net##.ad-native-comment
 itest.5ch.net##.js-render-after
+itest.5ch.net##.res_ad
+itest.5ch.net##.sproutad_frame
+itest.5ch.net##.sproutad_frame-description
 search.yahoo.co.jp##.AD__SSList
 seesaa.net###seesaa-bnr
 twitter.com##.has-profile-promoted-tweet
