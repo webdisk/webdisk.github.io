@@ -36,6 +36,7 @@ order: 1
 ### Windows Applications
 
 - System
+  - [Scoop](https://scoop.sh/)
   - [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
   - [InfraRecorder](http://infrarecorder.org/)
 - File
