@@ -37,6 +37,7 @@ order: 1
 
 - System
   - [Scoop](https://scoop.sh/)
+  - [Windows Terminal](https://www.microsoft.com/ja-jp/p/windows-terminal/9n0dx20hk701)
   - [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
   - [InfraRecorder](http://infrarecorder.org/)
 - File
