@@ -4,27 +4,67 @@ title: macOS Memo
 order: 1
 ---
 
-## Homebrew Cask Applications
+## Homebrew Applications
+
+<https://brew.sh>
+
+### Utility
 
 ```sh
-# Utility
 brew cask install appcleaner
 brew cask install bettertouchtool
 brew cask install karabiner-elements
 brew cask install openinterminal-lite
+```
 
-# Browser
+### Browser
+
+```console
 brew cask install firefox
 brew cask install google-chrome
+```
 
-# Archiver
+### Archive
+
+```sh
 brew cask install keka
+```
 
-# Binary
+### Binary
+
+```sh
 brew cask install hex-fiend
+```
 
-# Font
+### Image
+
+```sh
+brew install exiftool
+```
+
+### Development
+
+```sh
+brew install git
+brew install anyenv
+brew cask install sourcetree
+```
+
+### Font
+
+```sh
 brew tap homebrew/cask-fonts
 brew cask install font-source-han-sans
 brew cask install font-source-han-serif
 brew cask install font-source-han-mono
+```
+
+## Anyenv
+
+<https://github.com/anyenv/anyenv>
+
+```sh
+anyenv install nodenv
+anyenv install pyenv
+anyenv install goenv
+```
