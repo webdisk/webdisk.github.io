@@ -22,4 +22,9 @@ brew cask install keka
 
 # Binary
 brew cask install hex-fiend
-```
+
+# Font
+brew tap homebrew/cask-fonts
+brew cask install font-source-han-sans
+brew cask install font-source-han-serif
+brew cask install font-source-han-mono
