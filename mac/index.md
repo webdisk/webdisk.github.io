@@ -1,10 +1,10 @@
 ---
 layout: default
 title: macOS Memo
-order: 1
+order: 3
 ---
 
-## Homebrew Applications
+## Applications
 
 <https://brew.sh>
 

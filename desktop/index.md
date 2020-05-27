@@ -5,8 +5,6 @@ order: 1
 ---
 ## Applications
 
-### Cross Platform Applications
-
 - System
   - [VirtualBox](https://www.virtualbox.org/)
   - [balenaEtcher](https://www.balena.io/etcher/)
@@ -33,52 +31,10 @@ order: 1
   - [Python](https://www.python.org/)
   - [Go](https://golang.org/)
 
-### Windows Applications
-
-- System
-  - [Scoop](https://scoop.sh/)
-  - [Windows Terminal](https://www.microsoft.com/ja-jp/p/windows-terminal/9n0dx20hk701)
-  - [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
-  - [InfraRecorder](http://infrarecorder.org/)
-- File
-  - [Flexible Renamer](http://www.vector.co.jp/soft/winnt/util/se131133.html)
-  - [Stirling](http://www.vector.co.jp/soft/win95/util/se079072.html)
-  - [7-Zip](https://sevenzip.osdn.jp/)
-  - [単ZIP](http://kurohane.net/seisanbutu.html)
-- Image
-  - [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
-  - [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
-  - [@icon変換](http://www.towofu.net/soft/aicon.php)
-
-### MacOS Applications
-
-- System
-  - [BetterTouchTool](https://folivora.ai/)
-  - [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
-  - [AppCleaner](https://freemacsoft.net/appcleaner/)
-  - [OpenInTerminal-Lite](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
-- File
-  - [Keka](https://www.keka.io/ja/)
-  - [The Archive Browser](https://theunarchiver.com/archive-browser)
-  - [Hex Fiend](https://ridiculousfish.com/hexfiend/)
-
 ## Config
-
-### Cross Platform Config
 
 - [.ssh/config](ssh/config)
 - [.gitconfig](gitconfig)
-
-### Windows Registries
-
-- [Change 7-zip icons to system default](reg/change_7zip_icons.reg)
-- [Hide onedrive folder from Windows10 Explorer](reg/hide_onedrive.reg)
-
-## Scripts
-
-### Windows Batch Files
-
-- [Delete temporary files](bat/delete_temp.bat)
 
 ## Fonts
 
