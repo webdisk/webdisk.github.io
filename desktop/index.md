@@ -5,31 +5,11 @@ order: 1
 ---
 ## Applications
 
-- System
-  - [VirtualBox](https://www.virtualbox.org/)
-  - [balenaEtcher](https://www.balena.io/etcher/)
-- Network
-  - [Mozilla Firefox](https://www.mozilla.org/ja/firefox/)
-  - [Filezilla](https://filezilla-project.org/)
-- Document
-  - [Visual Studio Code](https://code.visualstudio.com/)
-  - [LibreOffice](https://ja.libreoffice.org/)
 - Image
   - [Gimp](https://www.gimp.org/)
-  - [Inkscape](https://inkscape.org/)
   - [APNG Assembler](http://apngasm.sourceforge.net/)
   - [ExifTool](https://exiftool.org/)
   - [jhead](https://www.sentex.ca/~mwandel/jhead/)
-- Video
-  - [VLC media player](https://www.videolan.org/)
-- Study
-  - [Anki](https://apps.ankiweb.net/)
-- Development
-  - [Git](https://git-scm.com/)
-  - [SourceTree](https://www.sourcetreeapp.com/)
-  - [Node.js](https://nodejs.org/ja/)
-  - [Python](https://www.python.org/)
-  - [Go](https://golang.org/)
 
 ## Config
 

@@ -8,32 +8,45 @@ order: 3
 
 <https://brew.sh>
 
-### Utility
+### System
 
 ```sh
 brew cask install appcleaner
 brew cask install bettertouchtool
 brew cask install karabiner-elements
 brew cask install openinterminal-lite
+brew cask install keka
+brew cask install balenaetcher
+brew cask install virtualbox
 ```
 
 ### Browser
 
-```console
+```sh
 brew cask install firefox
 brew cask install google-chrome
 ```
 
-### Archive
+### Editor
 
 ```sh
-brew cask install keka
+brew cask install visual-studio-code
+brew cask install libreoffice
+brew cask install hex-fiend
 ```
 
-### Binary
+- [Inkscape](https://inkscape.org/)
+
+### Viewer
 
 ```sh
-brew cask install hex-fiend
+brew cask install vlc
+```
+
+### Study
+
+```sh
+brew cask install anki
 ```
 
 ### Image
@@ -46,8 +59,8 @@ brew install exiftool
 
 ```sh
 brew install git
-brew install anyenv
 brew cask install sourcetree
+brew install anyenv
 ```
 
 ### Font
