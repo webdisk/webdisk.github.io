@@ -12,6 +12,10 @@ winget install --exact --id=7zip.7zip
 winget install --exact --id=Balena.Etcher
 ```
 
+- [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
+- [Flexible Renamer](http://www.vector.co.jp/soft/winnt/util/se131133.html)
+- [Stirling](http://www.vector.co.jp/soft/win95/util/se079072.html)
+- [単ZIP](http://kurohane.net/seisanbutu.html)
 - [VirtualBox](https://www.virtualbox.org/)
 
 ### Browser
@@ -26,8 +30,12 @@ winget install --exact --id=Google.Chrome
 ```sh
 winget install --exact --id=Microsoft.VisualStudioCode
 winget install --exact --id=LibreOffice.LibreOffice
+winget install --exact --id=GIMP.GIMP
 winget install --exact --id=Inkscape.Inkscape
 ```
+
+- [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
+- [@icon変換](http://www.towofu.net/soft/aicon.php)
 
 ### Viewer
 
@@ -35,11 +43,18 @@ winget install --exact --id=Inkscape.Inkscape
 winget install --exact --id=Videolan.Vlc
 ```
 
+- [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
+
 ### Study
 
 ```sh
 winget install --exact --id=Anki.Anki
 ```
+
+### CLI
+
+- [ExifTool](https://exiftool.org/)
+- [jhead](https://www.sentex.ca/~mwandel/jhead/)
 
 ### Development
 
@@ -50,20 +65,6 @@ winget install --exact --id=OpenJS.Nodejs
 winget install --exact --id=Python.Python
 winget install --exact --id=GoLang.Go
 ```
-
-- System
-  - [Scoop](https://scoop.sh/)
-  - [Windows Terminal](https://www.microsoft.com/ja-jp/p/windows-terminal/9n0dx20hk701)
-  - [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
-  - [InfraRecorder](http://infrarecorder.org/)
-- File
-  - [Flexible Renamer](http://www.vector.co.jp/soft/winnt/util/se131133.html)
-  - [Stirling](http://www.vector.co.jp/soft/win95/util/se079072.html)
-  - [単ZIP](http://kurohane.net/seisanbutu.html)
-- Image
-  - [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
-  - [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
-  - [@icon変換](http://www.towofu.net/soft/aicon.php)
 
 ## Registries
 

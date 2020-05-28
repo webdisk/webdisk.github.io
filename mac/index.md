@@ -32,6 +32,7 @@ brew cask install google-chrome
 ```sh
 brew cask install visual-studio-code
 brew cask install libreoffice
+brew cask install gimp
 brew cask install hex-fiend
 ```
 
@@ -49,10 +50,11 @@ brew cask install vlc
 brew cask install anki
 ```
 
-### Image
+### CLI
 
 ```sh
 brew install exiftool
+brew install jhead
 ```
 
 ### Development

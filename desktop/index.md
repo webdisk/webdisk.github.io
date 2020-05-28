@@ -3,13 +3,6 @@ layout: default
 title: Desktop Memo
 order: 1
 ---
-## Applications
-
-- Image
-  - [Gimp](https://www.gimp.org/)
-  - [APNG Assembler](http://apngasm.sourceforge.net/)
-  - [ExifTool](https://exiftool.org/)
-  - [jhead](https://www.sentex.ca/~mwandel/jhead/)
 
 ## Config
 

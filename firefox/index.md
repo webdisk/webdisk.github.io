@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Firefox Memo
-order: 6
+order: 7
 ---
 ## Add-ons
 
