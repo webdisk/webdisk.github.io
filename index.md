@@ -6,6 +6,7 @@ title: Contents
 {% for page in pages %}
 {% if page.order %}
 
-- [{{ page.title }}]({{ page.url }})
+## [{{ page.title }}]({{ page.url }})
+
 {% endif %}
 {% endfor %}
