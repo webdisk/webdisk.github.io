@@ -37,6 +37,11 @@
   "eslint.format.enable": true,
   "python.linting.pylintCategorySeverity.refactor": "Warning",
   "python.linting.pylintUseMinimalCheckers": false,
+  "markdownlint.config": {
+    "MD024": {
+      "siblings_only": true,
+    }
+  },
   "markdown-pdf.outputDirectory": "~/Desktop",
   "markdown-pdf.scale": 1,
   "markdown-pdf.displayHeaderFooter": true,
