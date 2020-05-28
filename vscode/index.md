@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VSCode Memo
-order: 6
+order: 3
 ---
 ## Extensions
 
