@@ -19,14 +19,11 @@ scripts: replace-google-play-links.mjs
 - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 - [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
 
-### Communication
+### PIM
 
 - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 - [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android)
 - [SMARTalk](https://play.google.com/store/apps/details?id=jp.co.fusioncom.smartalk.android)
-
-### PIM
-
 - [Googleカレンダー](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 - [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 - [時計](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
@@ -117,14 +114,11 @@ scripts: replace-google-play-links.mjs
 - [Firefox](https://apps.apple.com/jp/app/id989804926)
 - [Google Chrome](https://apps.apple.com/jp/app/id535886823)
 
-### Communication
+### PIM
 
 - [Gmail](https://apps.apple.com/jp/app/id422689480)
 - [LINE](https://apps.apple.com/jp/app/id443904275)
 - [SMARTalk](https://apps.apple.com/jp/app/id646647577)
-
-### PIM
-
 - [Googleカレンダー](https://apps.apple.com/jp/app/id909319292)
 - [Google Keep](https://apps.apple.com/jp/app/id1029207872)
 
