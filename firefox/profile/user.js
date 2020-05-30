@@ -2,8 +2,6 @@
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
 // unmap the backspace key
 user_pref("browser.backspace_action", 2);
-// hide recently bookmarked items
-user_pref("browser.bookmarks.showRecentlyBookmarked", false);
 // do not save information entered in web page forms and the search bar
 user_pref("browser.formfill.enable", false);
 // do not guess the prefix or suffix of url
