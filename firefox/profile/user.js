@@ -1,3 +1,5 @@
+// enable user stylesheets
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
 // unmap the backspace key
 user_pref("browser.backspace_action", 2);
 // hide recently bookmarked items
