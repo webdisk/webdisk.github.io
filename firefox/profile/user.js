@@ -21,8 +21,6 @@ user_pref("browser.tabs.warnOnOpen", true);
 user_pref("browser.zoom.siteSpecific", false);
 // turn off location aware browsing
 user_pref("geo.enabled", false);
-// block third-party tracker cookies
-user_pref("network.cookie.cookieBehavior", 4);
 // the cookie expires at the end of the session (when the browser closes)
 user_pref("network.cookie.lifetimePolicy", 2);
 // disable ipv6 dns lookups
@@ -31,11 +29,9 @@ user_pref("network.dns.disableIPv6", true);
 user_pref("network.protocol-handler.external.mailto", false);
 // a header stating the request not to be tracked is sent to all websites
 user_pref("privacy.donottrackheader.enabled", true);
-user_pref("privacy.donottrackheader.value", 1);
 // enable tracking protection
+user_pref("browser.contentblocking.category", "custom");
 user_pref("privacy.trackingprotection.enabled", true);
-user_pref("privacy.trackingprotection.cryptomining.enabled", true);
-user_pref("privacy.trackingprotection.fingerprinting.enabled", true);
 // the browsing history is automatically cleared on shutdown
 user_pref("privacy.sanitize.sanitizeOnShutdown", true);
 user_pref("privacy.clearOnShutdown.cache", true);
