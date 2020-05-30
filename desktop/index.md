@@ -165,13 +165,6 @@ anyenv install goenv
 ### Windows Registries
 
 - [Change 7-zip icons to system default](reg/change_7zip_icons.reg)
-- [Hide onedrive folder from Windows10 Explorer](reg/hide_onedrive.reg)
-
-## Scripts
-
-### Batch Files
-
-- [Delete temporary files](bat/delete_temp.bat)
 
 ## Fonts
 
