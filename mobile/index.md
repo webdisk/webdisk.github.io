@@ -14,6 +14,11 @@ scripts: replace-google-play-links.mjs
 - [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx)
   - [Plus License Key](https://play.google.com/store/apps/details?id=nextapp.fx.rk)
 
+### Browser
+
+- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+- [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
+
 ### Communication
 
 - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
@@ -22,7 +27,6 @@ scripts: replace-google-play-links.mjs
 
 ### PIM
 
-- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 - [Googleカレンダー](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 - [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 - [時計](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
@@ -34,7 +38,6 @@ scripts: replace-google-play-links.mjs
 - [ミラー](https://play.google.com/store/apps/details?id=net.toyly.simplemirror)
 - [Google 翻訳](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 - [Google レンズ](https://play.google.com/store/apps/details?id=com.google.ar.lens)
-- [Suica Reader](https://play.google.com/store/apps/details?id=yanzm.products.suicareader)
 - [端末を探す](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
 - [Google 認証システム](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
@@ -96,6 +99,7 @@ scripts: replace-google-play-links.mjs
 ### Money
 
 - [家計簿Zaim](https://play.google.com/store/apps/details?id=net.zaim.android)
+- [Suica Reader](https://play.google.com/store/apps/details?id=yanzm.products.suicareader)
 - [Kyash](https://play.google.com/store/apps/details?id=co.kyash)
 - [PayPay](https://play.google.com/store/apps/details?id=jp.ne.paypay.android.app)
 - [楽天ペイ](https://play.google.com/store/apps/details?id=jp.co.rakuten.pay)
@@ -108,6 +112,11 @@ scripts: replace-google-play-links.mjs
 
 ## iOS Applications
 
+### Browser
+
+- [Firefox](https://apps.apple.com/jp/app/id989804926)
+- [Google Chrome](https://apps.apple.com/jp/app/id535886823)
+
 ### Communication
 
 - [Gmail](https://apps.apple.com/jp/app/id422689480)
@@ -116,7 +125,6 @@ scripts: replace-google-play-links.mjs
 
 ### PIM
 
-- [Firefox](https://apps.apple.com/jp/app/id989804926)
 - [Googleカレンダー](https://apps.apple.com/jp/app/id909319292)
 - [Google Keep](https://apps.apple.com/jp/app/id1029207872)
 

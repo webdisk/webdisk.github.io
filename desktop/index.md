@@ -8,10 +8,16 @@ order: 1
 
 <https://github.com/microsoft/winget-cli>
 
-### System
+### Browser
 
 ```sh
-winget install --exact --id=Microsoft.WindowsTerminal
+winget install --exact --id=Mozilla.Firefox
+winget install --exact --id=Google.Chrome
+```
+
+### Tool
+
+```sh
 winget install --exact --id=7zip.7zip
 winget install --exact --id=Balena.Etcher
 ```
@@ -22,14 +28,7 @@ winget install --exact --id=Balena.Etcher
 - [単ZIP](http://kurohane.net/seisanbutu.html)
 - [VirtualBox](https://www.virtualbox.org/)
 
-### Browser
-
-```sh
-winget install --exact --id=Mozilla.Firefox
-winget install --exact --id=Google.Chrome
-```
-
-### Editor
+### Document
 
 ```sh
 winget install --exact --id=Microsoft.VisualStudioCode
@@ -38,13 +37,22 @@ winget install --exact --id=GIMP.GIMP
 winget install --exact --id=Inkscape.Inkscape
 ```
 
+### Image
+
 - [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
 - [@icon変換](http://www.towofu.net/soft/aicon.php)
 
-### Viewer
+## Photo
+
+- [Google Backup and Sync](https://www.google.com/drive/download/)
+- [Amazon Photos](https://www.amazon.co.jp/b?node=5262651051)
+- [ExifTool](https://exiftool.org/)
+- [jhead](https://www.sentex.ca/~mwandel/jhead/)
+
+### Video
 
 ```sh
-winget install --exact --id=Videolan.Vlc
+winget install --exact --id=VideoLAN.VLC
 ```
 
 - [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
@@ -54,11 +62,6 @@ winget install --exact --id=Videolan.Vlc
 ```sh
 winget install --exact --id=Anki.Anki
 ```
-
-### CLI
-
-- [ExifTool](https://exiftool.org/)
-- [jhead](https://www.sentex.ca/~mwandel/jhead/)
 
 ### Development
 
@@ -74,7 +77,14 @@ winget install --exact --id=GoLang.Go
 
 <https://brew.sh>
 
-### System
+### Browser
+
+```sh
+brew cask install firefox
+brew cask install google-chrome
+```
+
+### Tool
 
 ```sh
 brew cask install appcleaner
@@ -84,27 +94,20 @@ brew cask install openinterminal-lite
 brew cask install keka
 brew cask install balenaetcher
 brew cask install virtualbox
+brew cask install hex-fiend
 ```
 
-### Browser
-
-```sh
-brew cask install firefox
-brew cask install google-chrome
-```
-
-### Editor
+### Document
 
 ```sh
 brew cask install visual-studio-code
 brew cask install libreoffice
 brew cask install gimp
-brew cask install hex-fiend
 ```
 
 - [Inkscape](https://inkscape.org/)
 
-### Viewer
+### Video
 
 ```sh
 brew cask install vlc
@@ -116,11 +119,14 @@ brew cask install vlc
 brew cask install anki
 ```
 
-### CLI
+### Photo
 
 ```sh
+brew cask install google-backup-and-sync
+brew cask install amazon-photos
 brew install exiftool
 brew install jhead
+
 ```
 
 ### Development
