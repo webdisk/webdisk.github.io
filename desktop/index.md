@@ -6,9 +6,12 @@ order: 1
 
 ## Windows Applications
 
+<https://github.com/microsoft/winget-cli>
+
 ### System
 
 ```sh
+winget install --exact --id=Microsoft.WindowsTerminal
 winget install --exact --id=7zip.7zip
 winget install --exact --id=Balena.Etcher
 ```
