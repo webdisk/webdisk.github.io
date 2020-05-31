@@ -34,6 +34,12 @@ code --install-extension Tyriar.sort-lines
 code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension yzane.markdown-pdf
+```
+
+### Diagram
+
+```sh
+code --install-extension hediet.vscode-drawio
 code --install-extension bierner.markdown-mermaid
 ```
 
