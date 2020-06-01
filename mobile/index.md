@@ -41,6 +41,7 @@ scripts: replace-google-play-links.mjs
 ### Navigation
 
 - [Google マップ](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+- [コンパス](https://play.google.com/store/apps/details?id=apps.r.compass)
 - [Yahoo!乗換案内](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.transit)
 
 ### News
