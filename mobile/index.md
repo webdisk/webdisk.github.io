@@ -33,8 +33,8 @@ scripts: replace-google-play-links.mjs
 
 - [クルクル](https://play.google.com/store/apps/details?id=com.arara.q)
 - [ミラー](https://play.google.com/store/apps/details?id=net.toyly.simplemirror)
-- [Google 翻訳](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 - [Google レンズ](https://play.google.com/store/apps/details?id=com.google.ar.lens)
+- [Google 翻訳](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 - [端末を探す](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
 - [Google 認証システム](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 

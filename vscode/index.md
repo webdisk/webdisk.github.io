@@ -43,7 +43,7 @@ code --install-extension hediet.vscode-drawio
 code --install-extension bierner.markdown-mermaid
 ```
 
-### Programming
+### Developmment
 
 ```sh
 code --install-extension dbaeumer.vscode-eslint
