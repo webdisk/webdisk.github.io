@@ -32,7 +32,7 @@ scripts: replace-google-play-links.mjs
 ### Tool
 
 - [クルクル](https://play.google.com/store/apps/details?id=com.arara.q)
-- [ミラー](https://play.google.com/store/apps/details?id=net.toyly.simplemirror)
+- [ミラー](https://play.google.com/store/apps/details?id=jp.co.namura.mirror)
 - [Google レンズ](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 - [Google 翻訳](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 - [端末を探す](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
