@@ -1,120 +1,170 @@
 {
-  "Blacklist": [],
-  "Gestures": [
-    {
-      "command": "NewTab",
-      "settings": {
-        "position": "default",
-        "focus": true
-      },
-      "gesture": "D"
-    },
-    {
-      "command": "ReloadTab",
-      "settings": {
-        "cache": false
-      },
-      "gesture": "UD"
-    },
-    {
-      "command": "StopLoading",
-      "gesture": "U"
-    },
-    {
-      "command": "CloseTab",
-      "settings": {
-        "nextFocus": "default",
-        "closePinned": true
-      },
-      "gesture": "DR"
-    },
-    {
-      "command": "RestoreTab",
-      "settings": {
-        "currentWindow": false
-      },
-      "gesture": "DL"
-    },
-    {
-      "command": "ScrollTop",
-      "settings": {
-        "duration": 100
-      },
-      "gesture": "RU"
-    },
-    {
-      "command": "ScrollBottom",
-      "settings": {
-        "duration": 100
-      },
-      "gesture": "RD"
-    },
-    {
-      "command": "URLLevelUp",
-      "gesture": "UL"
-    }
-  ],
   "Settings": {
     "Gesture": {
-      "mouseButton": 2,
-      "suppressionKey": "",
-      "distanceThreshold": 10,
-      "distanceSensitivity": 10,
-      "Timeout": {
-        "active": false,
-        "duration": 1
-      },
       "Trace": {
-        "display": false,
-        "Style": {
-          "opacity": 0.8,
-          "strokeStyle": "#00AAA0",
-          "lineWidth": 10,
-          "lineGrowth": true
-        }
-      },
-      "Directions": {
-        "display": false,
-        "Style": {
-          "color": "#FFFFFF",
-          "backgroundColor": "#000000",
-          "backgroundOpacity": 0.3,
-          "fontSize": "8vh",
-          "textAlign": "center"
-        }
+        "display": false
       },
       "Command": {
-        "display": false,
-        "Style": {
-          "color": "#FFFFFF",
-          "backgroundColor": "#000000",
-          "backgroundOpacity": 0.3,
-          "fontSize": "6vh"
-        }
+        "display": false
       }
     },
+    "General": {
+      "updateNotification": false
+    },
     "Rocker": {
-      "active": true,
-      "leftMouseClick": {
-        "command": "PageBack"
-      },
-      "rightMouseClick": {
-        "command": "PageForth"
-      }
+      "active": true
     },
     "Wheel": {
       "active": true,
       "mouseButton": "2",
       "wheelUp": {
-        "command": "FocusLeftTab"
+        "name": "FocusLeftTab",
+        "settings": {
+          "cycling": true,
+          "excludeDiscarded": false
+        }
       },
       "wheelDown": {
-        "command": "FocusRightTab"
+        "name": "FocusRightTab",
+        "settings": {
+          "cycling": true,
+          "excludeDiscarded": false
+        }
       }
-    },
-    "General": {
-      "updateNotification": false,
-      "theme": "default"
     }
-  }
+  },
+  "Gestures": [
+    {
+      "command": {
+        "name": "URLLevelUp"
+      },
+      "pattern": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          0
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "ScrollBottom",
+        "settings": {
+          "duration": 100
+        }
+      },
+      "pattern": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "ScrollTop",
+        "settings": {
+          "duration": 100
+        }
+      },
+      "pattern": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "RestoreTab",
+        "settings": {
+          "currentWindow": false
+        }
+      },
+      "pattern": [
+        [
+          0,
+          1
+        ],
+        [
+          -1,
+          0
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "CloseTab",
+        "settings": {
+          "nextFocus": "default",
+          "closePinned": true
+        }
+      },
+      "pattern": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "StopLoading"
+      },
+      "pattern": [
+        [
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "ReloadTab",
+        "settings": {
+          "cache": false
+        }
+      },
+      "pattern": [
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "NewTab",
+        "settings": {
+          "position": "default",
+          "focus": true
+        }
+      },
+      "pattern": [
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  ]
 }
