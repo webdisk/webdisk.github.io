@@ -68,6 +68,7 @@
 ||fam-ad.com^
 ||fivecdm.com^
 ||flapi.nicovideo.jp/api/getmarquee_new^
+||focas.jp^
 ||fout.jp^
 ||free2.jp^
 ||freett.com/_Freett/
