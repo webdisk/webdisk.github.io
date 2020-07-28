@@ -39,9 +39,10 @@ winget install --exact --id=Inkscape.Inkscape
 
 ### Image
 
+- [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
 - [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
 
-## Photo
+### Photo
 
 - [Google Backup and Sync](https://www.google.com/drive/download/)
 - [Amazon Photos](https://www.amazon.co.jp/b?node=5262651051)
@@ -54,7 +55,7 @@ winget install --exact --id=Inkscape.Inkscape
 winget install --exact --id=VideoLAN.VLC
 ```
 
-- [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
+- [Amazon Prime Video](https://www.microsoft.com/ja-jp/p/amazon-prime-video-for-windows/9p6rc76msmmj)
 
 ### Study
 
@@ -111,6 +112,8 @@ brew cask install gimp
 ```sh
 brew cask install vlc
 ```
+
+- [Amazon Prime Video](https://apps.apple.com/jp/app/id545519333)
 
 ### Study
 
