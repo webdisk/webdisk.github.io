@@ -39,7 +39,7 @@
   "python.linting.pylintUseMinimalCheckers": false,
   "markdownlint.config": {
     "MD024": {
-      "siblings_only": true,
+      "siblings_only": true
     }
   },
   "markdown-pdf.outputDirectory": "~/Desktop",
