@@ -167,6 +167,7 @@ anyenv install goenv
 
 ### Windows Registries
 
+- [Disable lock workstation](reg/disable_lock_workstation.reg)
 - [Change 7-zip icons to system default](reg/change_7zip_icons.reg)
 
 ## Fonts
