@@ -98,6 +98,8 @@ brew cask install virtualbox
 brew cask install hex-fiend
 ```
 
+- [OpenInTerminal-Lite README](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
+
 ### Document
 
 ```sh
