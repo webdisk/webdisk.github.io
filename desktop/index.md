@@ -91,6 +91,7 @@ brew cask install appcleaner
 brew cask install bettertouchtool
 brew cask install karabiner-elements
 brew cask install openinterminal-lite
+brew cask install openineditor-lite
 brew cask install keka
 brew cask install balenaetcher
 brew cask install virtualbox
