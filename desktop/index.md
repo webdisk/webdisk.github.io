@@ -131,7 +131,6 @@ brew cask install google-backup-and-sync
 brew cask install amazon-photos
 brew install exiftool
 brew install jhead
-
 ```
 
 ### Development
@@ -140,6 +139,7 @@ brew install jhead
 brew install git
 brew cask install sourcetree
 brew install anyenv
+brew cask install docker
 ```
 
 ### Font
