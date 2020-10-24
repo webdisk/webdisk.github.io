@@ -131,6 +131,8 @@
 ||teracreative.com^
 ||thench.net^
 ||trafficgate.net^
+||trafficjunky.com^
+||trafficjunky.net^
 ||trax-ad.jp^
 ||trwl1.com^
 ||uauniverse.com^
