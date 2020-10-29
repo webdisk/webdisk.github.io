@@ -156,6 +156,7 @@ itest.5ch.net##.sproutad_frame
 itest.5ch.net##.sproutad_frame-description
 itest.5ch.net##[class^="ad"]
 search.yahoo.co.jp##.AD__SSList
+search.yahoo.co.jp##.SS_SS__3DT4t
 seesaa.net###seesaa-bnr
 twitter.com##.has-profile-promoted-tweet
 www.google.co.jp###tvcap
