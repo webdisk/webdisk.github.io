@@ -154,7 +154,10 @@ itest.5ch.net##.res_ad
 itest.5ch.net##.socialwrap
 itest.5ch.net##.sproutad_frame
 itest.5ch.net##.sproutad_frame-description
+itest.5ch.net##[class*="js-cardview_ad"]:first-child > iframe
+itest.5ch.net##[class*="js-cardview_ad"]:not(:first-child)
 itest.5ch.net##[class^="ad"]
+itest.5ch.net###js-cardview_ad
 search.yahoo.co.jp##.AD__SSList
 search.yahoo.co.jp##.SS_SS__3DT4t
 seesaa.net###seesaa-bnr
