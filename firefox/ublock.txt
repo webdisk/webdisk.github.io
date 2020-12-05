@@ -166,5 +166,7 @@ www.google.co.jp###tvcap
 youtube.com##.video-ads
 youtube.com##.ytd-action-companion-ad-renderer
 youtube.com###masthead-ad
-youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(set, playerResponse.adPlacements, undefined)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 youtube.com##ytd-promoted-sparkles-web-renderer
