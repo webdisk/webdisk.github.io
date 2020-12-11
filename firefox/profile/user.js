@@ -21,8 +21,6 @@ user_pref("browser.zoom.siteSpecific", false);
 user_pref("geo.enabled", false);
 // the cookie expires at the end of the session (when the browser closes)
 user_pref("network.cookie.lifetimePolicy", 2);
-// disable ipv6 dns lookups
-user_pref("network.dns.disableIPv6", true);
 // mailto protocol is not handled by an external application
 user_pref("network.protocol-handler.external.mailto", false);
 // a header stating the request not to be tracked is sent to all websites
