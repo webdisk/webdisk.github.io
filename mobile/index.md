@@ -13,6 +13,7 @@ scripts: replace-google-play-links.mjs
   - [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
 - [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx)
   - [Plus License Key](https://play.google.com/store/apps/details?id=nextapp.fx.rk)
+- [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton)
 
 ### Browser
 
