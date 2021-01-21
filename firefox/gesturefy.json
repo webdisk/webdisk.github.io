@@ -1,38 +1,4 @@
 {
-  "Settings": {
-    "Gesture": {
-      "Trace": {
-        "display": false
-      },
-      "Command": {
-        "display": false
-      }
-    },
-    "General": {
-      "updateNotification": false
-    },
-    "Rocker": {
-      "active": true
-    },
-    "Wheel": {
-      "active": true,
-      "mouseButton": "2",
-      "wheelUp": {
-        "name": "FocusLeftTab",
-        "settings": {
-          "cycling": true,
-          "excludeDiscarded": false
-        }
-      },
-      "wheelDown": {
-        "name": "FocusRightTab",
-        "settings": {
-          "cycling": true,
-          "excludeDiscarded": false
-        }
-      }
-    }
-  },
   "Gestures": [
     {
       "command": {
@@ -166,5 +132,39 @@
         ]
       ]
     }
-  ]
+  ],
+  "Settings": {
+    "Gesture": {
+      "Trace": {
+        "display": false
+      },
+      "Command": {
+        "display": false
+      }
+    },
+    "General": {
+      "updateNotification": false
+    },
+    "Rocker": {
+      "active": true
+    },
+    "Wheel": {
+      "active": true,
+      "mouseButton": "2",
+      "wheelUp": {
+        "name": "FocusLeftTab",
+        "settings": {
+          "cycling": true,
+          "excludeDiscarded": false
+        }
+      },
+      "wheelDown": {
+        "name": "FocusRightTab",
+        "settings": {
+          "cycling": true,
+          "excludeDiscarded": false
+        }
+      }
+    }
+  }
 }
