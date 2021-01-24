@@ -163,15 +163,16 @@ anyenv install goenv
 
 ## Config
 
-### Common
+### Common Config
 
 - [.ssh/config](ssh/config)
 - [.gitconfig](gitconfig)
 
-### Windows Registries
+### Windows Config
 
 - [Disable lock workstation](reg/disable_lock_workstation.reg)
 - [Change 7-zip icons to system default](reg/change_7zip_icons.reg)
+- [Windows sandbox configration](windows-sandbox.wsb)
 
 ## Fonts
 
