@@ -148,6 +148,7 @@
 ||yjaxc.yahoo.co.jp^
 ||youtube.com^*=adunit&
 ||zimg.jp^
+||zucks.net^
 fc2.com###fc2_bottom_bnr
 itest.5ch.net##.js-render-after
 itest.5ch.net##.res_ad
