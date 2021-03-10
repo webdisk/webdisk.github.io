@@ -28,6 +28,7 @@
 ||adsising.com^
 ||adsvids.com^
 ||adtech.de^
+||adtng.com^
 ||adtrue.com^
 ||advg.jp^
 ||adxadserv.com^
@@ -48,6 +49,7 @@
 ||bbchat.tv^
 ||bc.geocities.yahoo.co.jp^
 ||bebreloomr.com^
+||bestcontentindustry.top^
 ||bidgear.com^
 ||bigmining.com^
 ||bizad.nikkeibp.co.jp^
@@ -115,6 +117,7 @@
 ||popads.net^
 ||popcash.link^
 ||porojo.net^
+||ptgncdn.com^
 ||pub2srv.com^
 ||rad.msn.com^
 ||rcm-jp.amazon.co.jp^
