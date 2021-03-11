@@ -55,6 +55,7 @@
 ||bizad.nikkeibp.co.jp^
 ||bnhtml.com^
 ||comeadvertisewithus.com^
+||congrab.com^
 ||criteo.net^
 ||cse.google.com/adsense/search/async-ads.js
 ||cxpublic.com^
@@ -105,6 +106,7 @@
 ||microad.jp^
 ||microad.net^
 ||mmaaxx.com^
+||mttag.com^
 ||nend.net^
 ||ngs.impress.co.jp^
 ||nkis.nikkei.com^
