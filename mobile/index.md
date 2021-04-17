@@ -55,6 +55,7 @@ scripts: replace-google-play-links.mjs
 
 - [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
 - [dマガジン](https://play.google.com/store/apps/details?id=com.nttdocomo.dmagazine)
+- [読書尚友](https://play.google.com/store/apps/details?id=info.ebstudio.bookviewer.pro)
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
   - [PDF&DJVUプラグイン](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin)
   - [寄付](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.donate)
