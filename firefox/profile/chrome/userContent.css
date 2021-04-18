@@ -1,8 +1,0 @@
-@charset "utf-8";
-
-/* hide newtab  */
-@-moz-document url("about:newtab") {
-  * {
-    display: none !important;
-  }
-}

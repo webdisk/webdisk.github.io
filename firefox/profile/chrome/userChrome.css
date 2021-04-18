@@ -2,6 +2,11 @@
 
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
+/* change browser background color */
+#tabbrowser-tabpanels, browser {
+  background: #181A1B !important
+}
+
 /* change size of bookmark toolbar items */
 #PlacesToolbarItems > .bookmark-item {
   margin: 1px !important;

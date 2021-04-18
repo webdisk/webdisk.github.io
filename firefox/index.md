@@ -5,16 +5,11 @@ order: 4
 ---
 ## Add-ons
 
-### Utility
-
+- [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
 - [Gesturefy](https://addons.mozilla.org/firefox/addon/gesturefy/)
+- [Dark Reader](https://addons.mozilla.org/ja/firefox/addon/darkreader/)
 - [User-Agent Switcher](https://addons.mozilla.org/firefox/addon/user-agent-switcher-revived/)
 - [Offline QR Code Generator](https://addons.mozilla.org/ja/firefox/addon/offline-qr-code-generator/)
-
-### Security
-
-- [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
-- [Remove Cookie for Google Account Chooser](https://addons.mozilla.org/firefox/addon/remove-cookie-for-google-ac/)
 
 ## Search Plugins
 

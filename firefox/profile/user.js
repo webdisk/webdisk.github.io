@@ -1,5 +1,7 @@
 // enable user stylesheets
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
+// change blank page color
+user_pref("browser.display.background_color", "#181A1B");
 // unmap the backspace key
 user_pref("browser.backspace_action", 2);
 // hide other bookmarks
