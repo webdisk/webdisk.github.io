@@ -73,6 +73,8 @@ winget install --exact --id=Python.Python
 winget install --exact --id=GoLang.Go
 ```
 
+- [Android SDK Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
+
 ## macOS Applications
 
 <https://brew.sh>
