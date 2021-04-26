@@ -184,3 +184,10 @@ scripts: replace-google-play-links.mjs
 - [楽天ペイ](https://apps.apple.com/jp/app/id1139755229)
 - [LINE Pay](https://apps.apple.com/jp/app/id1449817412)
 - [メルカリ](https://apps.apple.com/jp/app/id667861049)
+
+## Android Commands
+
+```sh
+# Uninstall package
+adb shell pm uninstall -k --user 0 ${package}
+```
