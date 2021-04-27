@@ -5,10 +5,16 @@ order: 4
 ---
 ## Add-ons
 
+### Common
+
 - [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
-- [Gesturefy](https://addons.mozilla.org/firefox/addon/gesturefy/)
 - [Dark Reader](https://addons.mozilla.org/ja/firefox/addon/darkreader/)
-- [User-Agent Switcher](https://addons.mozilla.org/firefox/addon/user-agent-switcher-revived/)
+- [YouTube High Definition](https://addons.mozilla.org/ja/firefox/addon/youtube-high-definition/)
+
+### Desktop
+
+- [Gesturefy](https://addons.mozilla.org/firefox/addon/gesturefy/)
+- [User-Agent Switcher and Manager](https://addons.mozilla.org/firefox/addon/user-agent-string-switcher/)
 - [Offline QR Code Generator](https://addons.mozilla.org/ja/firefox/addon/offline-qr-code-generator/)
 
 ## Search Plugins
