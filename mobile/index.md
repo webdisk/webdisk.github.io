@@ -185,9 +185,6 @@ scripts: replace-google-play-links.mjs
 - [LINE Pay](https://apps.apple.com/jp/app/id1449817412)
 - [メルカリ](https://apps.apple.com/jp/app/id667861049)
 
-## Android Commands
+## Android Scripts
 
-```sh
-# Uninstall package
-adb shell pm uninstall -k --user 0 ${package}
-```
+- [Uninstall apps (Redmi 9t)](scripts/uninstall-apps-redmi9t.sh)
