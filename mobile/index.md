@@ -14,6 +14,7 @@ scripts: replace-google-play-links.mjs
 - [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx)
   - [Plus License Key](https://play.google.com/store/apps/details?id=nextapp.fx.rk)
 - [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton)
+- [GCam Port: BSG apks](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
 
 ### Browser
 
