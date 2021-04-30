@@ -14,7 +14,6 @@ scripts: replace-google-play-links.mjs
 - [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx)
   - [Plus License Key](https://play.google.com/store/apps/details?id=nextapp.fx.rk)
 - [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton)
-- [GCam Port: BSG apks](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
 
 ### Browser
 
@@ -114,6 +113,11 @@ scripts: replace-google-play-links.mjs
 ### Point
 
 - [Google アンケート モニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks)
+
+### Customize
+
+- [GCam Port: BSG apks](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
+- [XIAOMI.EU](https://xiaomi.eu/community/)
 
 ## iOS Applications
 
