@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mobile Memo
+title: Android
 order: 2
 scripts: replace-google-play-links.mjs
 ---

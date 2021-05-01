@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Desktop Memo
+title: Desktop
 order: 1
 ---
 

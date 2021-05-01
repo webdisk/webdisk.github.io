@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VSCode Memo
+title: VSCode
 order: 4
 ---
 ## Extensions

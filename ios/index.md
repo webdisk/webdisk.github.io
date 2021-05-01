@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iOS Memo
+title: iOS
 order: 3
 ---
 
