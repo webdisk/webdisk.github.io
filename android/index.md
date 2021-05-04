@@ -116,8 +116,9 @@ scripts: replace-google-play-links.mjs
 
 ## Customize
 
-### Redmi 9T
+### Xiaomi Redmi 9T
 
+- [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [XIAOMI.EU](https://xiaomi.eu/community/)
 - [Evolution X](https://forum.xda-developers.com/t/rom-official-evolution-x-5-6-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4262747/)
 - [GCam Port: BSG apks](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
