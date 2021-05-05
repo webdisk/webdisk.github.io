@@ -118,7 +118,7 @@ scripts: replace-google-play-links.mjs
 
 ### Xiaomi Redmi 9T
 
-- [TWRP](https://androidfilehost.com/?w=files&flid=320361)
+- [TWRP](https://forum.xda-developers.com/t/recovery-3-5-a10-twrp-unnoficial-for-lime-redmi9t-beta.4233045/)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [XIAOMI.EU](https://xiaomi.eu/community/)
 - [Evolution X](https://forum.xda-developers.com/t/rom-official-evolution-x-5-6-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4262747/)
