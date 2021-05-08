@@ -6,110 +6,114 @@ scripts: replace-google-play-links.mjs
 ---
 ## Applications
 
+### Dock
+
+- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+- [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly)
+- [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
+- [Googleカレンダー](https://play.google.com/store/apps/details?id=com.google.android.calendar)
+- [家計簿Zaim](https://play.google.com/store/apps/details?id=net.zaim.android)
+
+### 1-1
+
+- 電話
+  - [Googleの電話アプリ](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+  - [メッセージ](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
+  - [Google コンタクト](https://play.google.com/store/apps/details?id=com.google.android.contacts)
+  - [SMARTalk](https://play.google.com/store/apps/details?id=jp.co.fusioncom.smartalk.android)
+- ツール
+  - [クルクル](https://play.google.com/store/apps/details?id=com.arara.q)
+  - [鏡ミラー](https://play.google.com/store/apps/details?id=com.darjjeelling.app.mirror)
+  - [レコーダー](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
+  - [Google 翻訳](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+  - [コンパス](https://play.google.com/store/apps/details?id=apps.r.compass)
+  - [Suica Reader](https://play.google.com/store/apps/details?id=yanzm.products.suicareader)
+- マネー
+  - [Kyash](https://play.google.com/store/apps/details?id=co.kyash)
+  - [PayPay](https://play.google.com/store/apps/details?id=jp.ne.paypay.android.app)
+  - [楽天ペイ](https://play.google.com/store/apps/details?id=jp.co.rakuten.pay)
+  - [LINE Pay](https://play.google.com/store/apps/details?id=com.linepaycorp.talaria)
+  - [メルカリ](https://play.google.com/store/apps/details?id=com.kouzoh.mercari)
+  - [MyEdenred](https://play.google.com/store/apps/details?id=com.edenred.eq.myedenred)
+  - [JRE POINT アプリ](https://play.google.com/store/apps/details?id=jp.co.jreast.jrepoint)
+  - [dポイントクラブ](https://play.google.com/store/apps/details?id=com.nttdocomo.android.dpoint)
+- Play ストア
+- 設定
+
+### 1-2
+
+- [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx)
+  - [Plus License Key](https://play.google.com/store/apps/details?id=nextapp.fx.rk)
+- [Google フォト](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
+- [Amazon Photos](https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos)
+- カメラ
+- [Google レンズ](https://play.google.com/store/apps/details?id=com.google.ar.lens)
+
+### 1-3
+
+- [時計](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
+- [電卓](https://play.google.com/store/apps/details?id=com.google.android.calculator)
+- [Google 認証システム](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+- [Google マップ](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+- [Yahoo!乗換案内](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.transit)
+
+### 1-4
+
+- [Google ニュース](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
+- [Yahoo!ニュース](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.news)
+- [Yahoo!天気](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1)
+- [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
+- [読書尚友](https://play.google.com/store/apps/details?id=info.ebstudio.bookviewer.pro)
+
+### 1-5
+
+- [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
+- [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
+- [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android)
+- 学習
+  - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+  - [EBPocket Professional](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocket)
+- フィット
+  - [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness)
+  - [Coke ON](https://play.google.com/store/apps/details?id=com.coke.cokeon)
+  - [OMRON connect](https://play.google.com/store/apps/details?id=jp.co.omron.healthcare.omron_connect)
+
+### 2-1
+
+- [torne mobile](https://play.google.com/store/apps/details?id=com.playstation.tornemobile)
+- [Amazonプライム・ビデオ](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
+- [TVer](https://play.google.com/store/apps/details?id=jp.hamitv.hamiand1)
+- [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music)
+- [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3)
+
+### 2-2
+
+- [Google アンケート モニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks)
+
 ### System
 
 - [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 - [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
   - [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
-- [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx)
-  - [Plus License Key](https://play.google.com/store/apps/details?id=nextapp.fx.rk)
 - [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton)
-
-### Browser
-
-- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+- [壁紙](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
 - [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
-
-### Communication
-
-- [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
-- [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
-- [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android)
-- [SMARTalk](https://play.google.com/store/apps/details?id=jp.co.fusioncom.smartalk.android)
-
-### PIM
-
-- [Googleカレンダー](https://play.google.com/store/apps/details?id=com.google.android.calendar)
-- [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
-- [時計](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
-- [電卓](https://play.google.com/store/apps/details?id=com.google.android.calculator)
-
-### Tool
-
-- [クルクル](https://play.google.com/store/apps/details?id=com.arara.q)
-- [鏡ミラー](https://play.google.com/store/apps/details?id=com.darjjeelling.app.mirror)
-- [Google レンズ](https://play.google.com/store/apps/details?id=com.google.ar.lens)
-- [Google 翻訳](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 - [端末を探す](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
-- [Google 認証システム](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
-
-### Navigation
-
-- [Google マップ](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
-- [コンパス](https://play.google.com/store/apps/details?id=apps.r.compass)
-- [Yahoo!乗換案内](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.transit)
-
-### News
-
-- [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly)
-- [Yahoo!ニュース](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.news)
-- [Yahoo!天気](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1)
 
 ### Book
 
-- [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
 - [dマガジン](https://play.google.com/store/apps/details?id=com.nttdocomo.dmagazine)
-- [読書尚友](https://play.google.com/store/apps/details?id=info.ebstudio.bookviewer.pro)
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
   - [PDF&DJVUプラグイン](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin)
   - [寄付](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.donate)
 - [Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer)
 
-### Photo
-
-- [Google フォト](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
-- [Amazon Photos](https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos)
-- [壁紙](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
-
 ### Video
 
 - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
-- [Amazonプライム・ビデオ](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
-- [TVer](https://play.google.com/store/apps/details?id=jp.hamitv.hamiand1)
-- [torne mobile](https://play.google.com/store/apps/details?id=com.playstation.tornemobile)
 - [Video & TV SideView](https://play.google.com/store/apps/details?id=com.sony.tvsideview.phone)
   - [プレーヤープラグイン](https://play.google.com/store/apps/details?id=com.sony.tvsideview.dtcpplayer)
 - [MX Player Pro](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
-
-### Music
-
-- [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3)
-- [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music)
-
-### Study
-
-- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-- [EBPocket Professional](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocket)
-
-### Fitness
-
-- [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness)
-- [Coke ON](https://play.google.com/store/apps/details?id=com.coke.cokeon)
-- [OMRON connect](https://play.google.com/store/apps/details?id=jp.co.omron.healthcare.omron_connect)
-
-### Money
-
-- [家計簿Zaim](https://play.google.com/store/apps/details?id=net.zaim.android)
-- [Suica Reader](https://play.google.com/store/apps/details?id=yanzm.products.suicareader)
-- [Kyash](https://play.google.com/store/apps/details?id=co.kyash)
-- [PayPay](https://play.google.com/store/apps/details?id=jp.ne.paypay.android.app)
-- [楽天ペイ](https://play.google.com/store/apps/details?id=jp.co.rakuten.pay)
-- [LINE Pay](https://play.google.com/store/apps/details?id=com.linepaycorp.talaria)
-- [メルカリ](https://play.google.com/store/apps/details?id=com.kouzoh.mercari)
-
-### Point
-
-- [Google アンケート モニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks)
 
 ## Customize
 
