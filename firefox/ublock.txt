@@ -1,4 +1,3 @@
-
 ||6548579f50dc08be9.com^
 ||a-ads.com^
 ||a1.goo.ne.jp^
@@ -119,6 +118,7 @@
 ||padstm.com^
 ||popads.net^
 ||popcash.link^
+||popin.cc^
 ||porojo.net^
 ||ptgncdn.com^
 ||pub2srv.com^
