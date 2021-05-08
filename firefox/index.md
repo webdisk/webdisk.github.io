@@ -14,7 +14,7 @@ order: 5
 ### Desktop
 
 - [Gesturefy](https://addons.mozilla.org/firefox/addon/gesturefy/)
-- [User-Agent Switcher and Manager](https://addons.mozilla.org/firefox/addon/user-agent-string-switcher/)
+- [User-Agent Switcher](https://addons.mozilla.org/firefox/addon/uaswitcher/)
 - [Offline QR Code Generator](https://addons.mozilla.org/ja/firefox/addon/offline-qr-code-generator/)
 
 ## Search Plugins
