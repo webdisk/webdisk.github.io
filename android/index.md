@@ -81,8 +81,8 @@ scripts: replace-google-play-links.mjs
 ### 2-1
 
 - [torne mobile](https://play.google.com/store/apps/details?id=com.playstation.tornemobile)
-- [Amazonプライム・ビデオ](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 - [TVer](https://play.google.com/store/apps/details?id=jp.hamitv.hamiand1)
+- [Amazonプライム・ビデオ](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 - [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music)
 - [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3)
 
