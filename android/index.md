@@ -38,6 +38,7 @@ scripts: replace-google-play-links.mjs
   - [JRE POINT アプリ](https://play.google.com/store/apps/details?id=jp.co.jreast.jrepoint)
   - [dポイントクラブ](https://play.google.com/store/apps/details?id=com.nttdocomo.android.dpoint)
 - サービス
+  - [住信SBIネット銀行](https://play.google.com/store/apps/details?id=jp.co.netbk)
   - [えきねっとアプリ](https://play.google.com/store/apps/details?id=com.net.eki.app)
   - [日本郵便](https://play.google.com/store/apps/details?id=jp.japanpost.post.postbox.android)
   - [ノハナ](https://play.google.com/store/apps/details?id=jp.co.nohana)
