@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contents
+title: Memo
 ---
 {% assign pages = (site.pages | sort: "order") %}
 {% for page in pages %}
