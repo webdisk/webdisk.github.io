@@ -108,6 +108,7 @@ scripts: replace-google-play-links.mjs
 - [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton)
 - [壁紙](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
 - [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
+- [Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer)
 - [端末を探す](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
 
 ### Book
@@ -116,7 +117,6 @@ scripts: replace-google-play-links.mjs
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
   - [PDF&DJVUプラグイン](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin)
   - [寄付](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.donate)
-- [Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer)
 
 ### Video
 
