@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VSCode
-order: 4
+order: 6
 ---
 ## Extensions
 

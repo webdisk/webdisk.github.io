@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Firefox
-order: 5
+order: 7
 ---
 ## Add-ons
 
