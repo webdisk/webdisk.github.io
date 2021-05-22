@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Android
-order: 4
+order: 3
 scripts: replace-google-play-links.mjs
 ---
 ## Applications

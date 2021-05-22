@@ -1,7 +1,7 @@
 ---
 layout: default
 title: macOS
-order: 3
+order: 2
 ---
 
 ## Applications
@@ -91,3 +91,8 @@ anyenv install nodenv
 anyenv install pyenv
 anyenv install goenv
 ```
+
+## Config
+
+- [.ssh/config](ssh/config)
+- [.gitconfig](gitconfig)

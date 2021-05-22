@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Windows
-order: 2
+order: 1
 ---
 
 ## Applications
