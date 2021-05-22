@@ -75,14 +75,14 @@ winget install --exact --id=GoLang.Go
 
 - [Android SDK Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
 
-## Config
-
-- [Disable lock workstation](reg/disable_lock_workstation.reg)
-- [Change 7-zip icons to system default](reg/change_7zip_icons.reg)
-- [Windows sandbox configration](windows-sandbox.wsb)
-
 ## Fonts
 
 - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
 - [Source Han Mono](https://github.com/adobe-fonts/source-han-mono)
 - [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
+
+## Config
+
+- [Disable lock workstation](reg/disable_lock_workstation.reg)
+- [Change 7-zip icons to system default](reg/change_7zip_icons.reg)
+- [Windows sandbox configration](windows-sandbox.wsb)
