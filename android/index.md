@@ -32,7 +32,6 @@ scripts: replace-google-play-links.mjs
   - [Kyash](https://play.google.com/store/apps/details?id=co.kyash)
   - [PayPay](https://play.google.com/store/apps/details?id=jp.ne.paypay.android.app)
   - [楽天ペイ](https://play.google.com/store/apps/details?id=jp.co.rakuten.pay)
-  - [LINE Pay](https://play.google.com/store/apps/details?id=com.linepaycorp.talaria)
   - [メルカリ](https://play.google.com/store/apps/details?id=com.kouzoh.mercari)
   - [MyEdenred](https://play.google.com/store/apps/details?id=com.edenred.eq.myedenred)
   - [JRE POINT アプリ](https://play.google.com/store/apps/details?id=jp.co.jreast.jrepoint)
