@@ -20,7 +20,7 @@ order: 6
 
 ## Search Plugins
 
-## Addon settings
+## Addon Settings
 
 - [uBlock Filter](abp://subscribe/?location={{ page.dir | absolute_url }}ublock.txt&title=Simple Filter)
 - [Cookie AutoDelete Settings](cad-settings.json)
