@@ -23,8 +23,6 @@ user_pref("browser.tabs.warnOnOpen", true);
 user_pref("browser.zoom.siteSpecific", false);
 // turn off location aware browsing
 user_pref("geo.enabled", false);
-// the cookie expires at the end of the session (when the browser closes)
-user_pref("network.cookie.lifetimePolicy", 2);
 // mailto protocol is not handled by an external application
 user_pref("network.protocol-handler.external.mailto", false);
 // a header stating the request not to be tracked is sent to all websites

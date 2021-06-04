@@ -14,18 +14,18 @@ order: 6
 ### Desktop
 
 - [Gesturefy](https://addons.mozilla.org/firefox/addon/gesturefy/)
+- [Cookie AutoDelete](https://addons.mozilla.org/firefox/addon/cookie-autodelete/)
 - [User-Agent Switcher](https://addons.mozilla.org/firefox/addon/uaswitcher/)
 - [Offline QR Code Generator](https://addons.mozilla.org/ja/firefox/addon/offline-qr-code-generator/)
 
 ## Search Plugins
 
-## uBlock Filter
+## Addon settings
 
-- [Simple Filter](abp://subscribe/?location={{ page.dir | absolute_url }}ublock.txt&title=Simple Filter)
-
-## Gesturefy Settings
-
-- [gesturefy.json](gesturefy.json)
+- [uBlock Filter](abp://subscribe/?location={{ page.dir | absolute_url }}ublock.txt&title=Simple Filter)
+- [Cookie AutoDelete Settings](cad-settings.json)
+- [Cookie AutoDelete Expressions](cad-expressions.json)
+- [Gesturefy Settings](gesturefy.json)
 
 ## Profile Settings
 
