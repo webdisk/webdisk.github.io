@@ -24,7 +24,6 @@ scripts: replace-google-play-links.mjs
   - [SMARTalk](https://play.google.com/store/apps/details?id=jp.co.fusioncom.smartalk.android)
 - ツール
   - [Google 認証システム](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
-  - [鏡ミラー](https://play.google.com/store/apps/details?id=com.darjjeelling.app.mirror)
   - [レコーダー](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
   - [Google 翻訳](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
   - [コンパス](https://play.google.com/store/apps/details?id=apps.r.compass)
@@ -63,7 +62,7 @@ scripts: replace-google-play-links.mjs
 - [電卓](https://play.google.com/store/apps/details?id=com.google.android.calculator)
 - [Google レンズ](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 - [クルクル](https://play.google.com/store/apps/details?id=com.arara.q)
-- [EBPocket Professional](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocket)
+- [鏡ミラー](https://play.google.com/store/apps/details?id=com.darjjeelling.app.mirror)
 
 ### 1-4
 
@@ -76,9 +75,9 @@ scripts: replace-google-play-links.mjs
 ### 1-5
 
 - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
-- [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 - [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android)
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+- [EBPocket Professional](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocket)
 - [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
 
 ### 2-1
@@ -111,6 +110,7 @@ scripts: replace-google-play-links.mjs
 - [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
 - [Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer)
 - [端末を探す](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
+- [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
 
 ### Book
 
