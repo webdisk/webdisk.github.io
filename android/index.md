@@ -13,6 +13,7 @@ scripts: replace-google-play-links.mjs
 - [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 - [Googleカレンダー](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 - [家計簿Zaim](https://play.google.com/store/apps/details?id=net.zaim.android)
+- [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness)
 
 ### 1-1
 
@@ -41,6 +42,7 @@ scripts: replace-google-play-links.mjs
   - [えきねっとアプリ](https://play.google.com/store/apps/details?id=com.net.eki.app)
   - [日本郵便](https://play.google.com/store/apps/details?id=jp.japanpost.post.postbox.android)
   - [ノハナ](https://play.google.com/store/apps/details?id=jp.co.nohana)
+  - [マクドナルド](https://play.google.com/store/apps/details?id=jp.co.mcdonalds.android)
 - フィット
   - [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness)
   - [Coke ON](https://play.google.com/store/apps/details?id=com.coke.cokeon)
