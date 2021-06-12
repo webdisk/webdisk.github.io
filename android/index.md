@@ -12,8 +12,8 @@ scripts: replace-google-play-links.mjs
 - [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly)
 - [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 - [Googleカレンダー](https://play.google.com/store/apps/details?id=com.google.android.calendar)
-- [家計簿Zaim](https://play.google.com/store/apps/details?id=net.zaim.android)
 - [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness)
+- [家計簿Zaim](https://play.google.com/store/apps/details?id=net.zaim.android)
 
 ### 1-1
 
