@@ -30,6 +30,5 @@ order: 6
 ## Profile Settings
 
 - [user.js](profile/user.js)
-- [permissions.sqlite](profile/permissions.sqlite)
 - [userChrome.css](profile/chrome/userChrome.css)
 - [userContent.css](profile/chrome/userContent.css)
