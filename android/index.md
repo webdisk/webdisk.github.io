@@ -133,6 +133,6 @@ scripts: replace-google-play-links.mjs
 - [TWRP](https://forum.xda-developers.com/t/recovery-3-5-a10-twrp-unnoficial-for-lime-redmi9t-beta.4233045/)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [XIAOMI.EU](https://xiaomi.eu/community/)
-- [ArrowOS (juice)](https://www.arrowos.net/download)
+- [ArrowOS](https://arrowos.net/download/juice)
 - [GCam Port: BSG apks](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
 - [Uninstall apps](scripts/uninstall-apps-redmi9t.sh)
