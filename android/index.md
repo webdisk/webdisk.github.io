@@ -134,5 +134,6 @@ scripts: replace-google-play-links.mjs
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [XIAOMI.EU](https://xiaomi.eu/community/)
 - [ArrowOS](https://arrowos.net/download/juice)
+  - [XDA Developers Forums](https://forum.xda-developers.com/t/rom-community-arrowos-android-11-juice.4290197/)
 - [GCam Port: BSG apks](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
 - [Uninstall apps](scripts/uninstall-apps-redmi9t.sh)
