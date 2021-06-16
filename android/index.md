@@ -115,6 +115,7 @@ scripts: replace-google-play-links.mjs
 ### Book
 
 - [dマガジン](https://play.google.com/store/apps/details?id=com.nttdocomo.dmagazine)
+- [SideBooks](https://play.google.com/store/apps/details?id=jp.co.tokyo_ip.SideBooks)
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
   - [PDF&DJVUプラグイン](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin)
   - [寄付](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.donate)
