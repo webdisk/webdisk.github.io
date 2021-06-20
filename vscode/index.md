@@ -48,6 +48,7 @@ code --install-extension bierner.markdown-mermaid
 ```sh
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension donjayamanne.githistory
 ```
 
 ### Themes
