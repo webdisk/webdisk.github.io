@@ -98,6 +98,9 @@ scripts: replace-google-play-links.mjs
 
 ### 2-3
 
+- ワーク
+  - [Slack](https://play.google.com/store/apps/details?id=com.Slack)
+  - [Microsoft Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)
 - [Google アンケート モニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks)
 
 ### System
